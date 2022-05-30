@@ -4,6 +4,8 @@ Fram Brad Traversy's YouTube video [Tailwind Crash Course | Project From Scratch
 
 GitHub Link: https://github.com/bradtraversy/tailwind-landing-page
 
+**NOTE**: Great video mainly on use of the classes from header to footer and relying heaily on flexbox. He added custom color classes in the tailwind config file which I wouldn't have done. Nice hamburger menu and code except for the mobile menu positioning. I need to change that!
+
 ## Installation
 
 - https://tailwindcss.com/docs/installation:
